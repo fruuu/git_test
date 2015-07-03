@@ -1,5 +1,6 @@
 <?php
-/*comment*/
+/*comment*/   
+
 $conn = new mysqli("localhost", "root", "", "new_database");
 
 if(isset($_POST['submit'])){
