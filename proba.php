@@ -12,5 +12,5 @@ $query = $conn->query($sql) or die($conn->error);
 if(!($query))
     echo "neuspjeli upit";
 
-/* comment */
+/* comment */ 
 
