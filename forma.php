@@ -36,7 +36,7 @@ if(isset($_POST['submit'])){
     <input type="submit" name="submit" value="Posalji">
 </form>
 </body>
-</html>
+</html>  
 
 
 
